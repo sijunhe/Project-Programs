@@ -1,4 +1,8 @@
 import java.util.*;
+/*
+ * created by sijunhe on 05/09/2015
+ * Sorting - Implement two types of sorting algorithms: Merge sort and bubble sort
+ */
 
 public class sort {
 
